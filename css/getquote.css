@@ -24,6 +24,13 @@ h4 {
 
 /* ///// inputs /////*/
 
+.send-button{
+    background-color:#edbf33;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 30px;
+}
+
 input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid ~ label {
     font-size: 0.75em;
     color: #999;

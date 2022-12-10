@@ -1132,6 +1132,19 @@ a:focus {
     border-top: none;
 }
 
+@media only screen and (max-width: 480px) {
+    /* CSS styles for mobile devices go here */
+   #main-title{
+    font-size: 21px;
+   }
+
+  }
+
+  .aluminum {
+    height: 100px;
+
+    
+  }
 
 /*******************************/
 /******* Testimonial CSS *******/
